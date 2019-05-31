@@ -1,4 +1,4 @@
-# Kaggle-TGS-Salt-Identification-Deep-Learning
+# Kaggle TGS Salt Identification Challeneg Using Deep Learning
 
 Several areas of Earth with large accumulations of oil and gas also have huge deposits of salt below the surface.
 
